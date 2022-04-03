@@ -8,6 +8,12 @@ h1 {
 
 }
 
+#left-game-space {
+    float: left;
+    width: 25%;
+    background: rgb(71, 71, 71);
+}
+
 .box {
     background: #333;
     height: 100vh;
