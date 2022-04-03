@@ -1,4 +1,9 @@
-#game-space {
+html, body {
+    margin:0px;
+    height: 100%; 
+}
+
+.box {
     background: #333;
     margin:0px;
     height: 100%;
