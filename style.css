@@ -17,10 +17,11 @@ h1, h2 {
 #map-box {
     width: 80%;
     background: #333;
-    margin-top:0, auto;
+    margin-top: auto;
     height: 25%;
     z-index: 10;
-
+    padding: 10px;
+    color: white;
 }
 
 #middle-game-space {
